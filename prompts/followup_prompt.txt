@@ -1,0 +1,1 @@
+Based on the candidate's response: "{response}", generate a relevant follow-up question that further assesses their technical knowledge and problem-solving skills.

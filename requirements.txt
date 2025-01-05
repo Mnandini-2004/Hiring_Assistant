@@ -1,0 +1,5 @@
+streamlit
+openai
+python-dotenv
+transformers
+altair==4.2.2

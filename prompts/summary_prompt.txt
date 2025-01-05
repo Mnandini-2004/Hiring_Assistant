@@ -1,0 +1,5 @@
+Summarize the candidate's conversation. Include their:
+- Personal details
+- Declared tech stack
+- Responses to technical questions
+- Overall knowledge and suitability for the desired position.
