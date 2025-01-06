@@ -1,6 +1,3 @@
-
-
-
 import streamlit as st
 from utils.helpers import query_groq#, analyze_sentiment
 from utils.memory import init_session, add_message, get_chat_history, update_stage, save_candidate_info, get_stage, get_candidate_info
@@ -163,11 +160,7 @@ if user_input:
         
     elif current_stage == "technical_questions":
         response = query_groq(user_input, get_chat_history())
-        '''sentiment = analyze_sentiment(user_input)
-        if sentiment["label"] == "NEGATIVE" and sentiment["score"] > 0.7:
-            response = "I noticed you might be feeling a bit negative. Is there anything I can help with?"
-            add_message("assistant", response)
-            st.chat_message("assistant").write(response)'''
+        
           
 
     
@@ -206,3 +199,4 @@ if send_feedback:
         submitted = st.form_submit_button("Submit")
         if submitted:
             st.success("Thank you for your feedback!")
+
