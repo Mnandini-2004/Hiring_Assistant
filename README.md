@@ -19,8 +19,8 @@ Follow the steps below to set up and run the chatbot locally:
 
 ### Prerequisites
 Ensure the following are installed:
-🐍 Python 3.8 or higher
-📦 pip (Python package manager)
+1. 🐍 Python 3.8 or higher
+2. 📦 pip (Python package manager)
 
 ### Steps
 1. Clone the Repository
