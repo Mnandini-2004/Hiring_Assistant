@@ -3,14 +3,14 @@
 ## Project Overview
 The Hiring Assistant Chatbot is an intelligent conversational tool designed to assist a fictional recruitment agency, TalentScout, in automating the initial screening process of potential candidates. This chatbot:
 
-📋 Gathers essential candidate details (e.g., name, email, experience, and tech stack).
-✅ Validates the inputs for accuracy and completeness.
-🛠️ Asks technical questions based on the candidate’s provided tech stack and preffered position.
-🤖 Provides a natural conversational experience using advanced Large Language Models (LLMs).
-🧠 Incorporates sentiment analysis to gauge candidate responses and adapt the interaction accordingly.
-🔒 Ensures focus by avoiding irrelevant questions and keeping the conversation strictly recruitment-oriented.
-📚 Recommends learning resources to candidates with insufficient knowledge, encouraging skill development.
-🗑️ Provides an option to clear all data, ensuring candidate privacy and compliance with data protection standards.
+1.📋 Gathers essential candidate details (e.g., name, email, experience, and tech stack).
+2.✅ Validates the inputs for accuracy and completeness.
+3.🛠️ Asks technical questions based on the candidate’s provided tech stack and preffered position.
+4.🤖 Provides a natural conversational experience using advanced Large Language Models (LLMs).
+5.🧠 Incorporates sentiment analysis to gauge candidate responses and adapt the interaction accordingly.
+6.🔒 Ensures focus by avoiding irrelevant questions and keeping the conversation strictly recruitment-oriented.
+7.📚 Recommends learning resources to candidates with insufficient knowledge, encouraging skill development.
+8.🗑️ Provides an option to clear all data, ensuring candidate privacy and compliance with data protection standards.
 
 This project demonstrates the seamless integration of conversational AI with recruitment workflows, improving efficiency and user experience.
 
