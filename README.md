@@ -75,8 +75,8 @@ Ensure the following are installed:
 4. 🔍 Regex: Input validation for email, phone numbers, and other fields.
 
 ### Models
-🧠 **LLM (Llama-3.3-70b-versatile)**: Handles conversation and technical question generation.
-😊 **Sentiment Analysis Transformer Model**: Detects positive, negative, or neutral tones in candidate responses.
+1. 🧠 **LLM (Llama-3.3-70b-versatile)**: Handles conversation and technical question generation.
+2. 😊 **Sentiment Analysis Transformer Model**: Detects positive, negative, or neutral tones in candidate responses.
 
 ### Architecture
 The project follows a modular structure:
@@ -88,9 +88,9 @@ The project follows a modular structure:
 ## Prompt Design
 Crafting prompts was a critical part of this project to ensure the chatbot’s efficiency and accuracy:
 
-✨ Greeting Prompt: Sets a warm, professional tone to engage candidates.
-📜 Tech Stack Prompt: Dynamically generates technical questions based on the provided stack.
-🔄 Fallback Prompt: Ensures seamless recovery from unrecognized inputs.
+1. ✨ Greeting Prompt: Sets a warm, professional tone to engage candidates.
+2. 📜 Tech Stack Prompt: Dynamically generates technical questions based on the provided stack.
+3. 🔄 Fallback Prompt: Ensures seamless recovery from unrecognized inputs.
 
 Example of a tech stack prompt:
 ```
