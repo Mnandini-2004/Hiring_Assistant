@@ -8,6 +8,9 @@ The Hiring Assistant Chatbot is an intelligent conversational tool designed to a
 🛠️ Asks technical questions based on the candidate’s provided tech stack and preffered position.
 🤖 Provides a natural conversational experience using advanced Large Language Models (LLMs).
 🧠 Incorporates sentiment analysis to gauge candidate responses and adapt the interaction accordingly.
+🔒 Ensures focus by avoiding irrelevant questions and keeping the conversation strictly recruitment-oriented.
+📚 Recommends learning resources to candidates with insufficient knowledge, encouraging skill development.
+🗑️ Provides an option to clear all data, ensuring candidate privacy and compliance with data protection standards.
 
 This project demonstrates the seamless integration of conversational AI with recruitment workflows, improving efficiency and user experience.
 
@@ -73,7 +76,7 @@ Ensure the following are installed:
 
 ### Models
 🧠 **LLM (Llama-3.3-70b-versatile)**: Handles conversation and technical question generation.
-😊 **Sentiment Analysis Model**: Detects positive, negative, or neutral tones in candidate responses.
+😊 **Sentiment Analysis Transformer Model**: Detects positive, negative, or neutral tones in candidate responses.
 
 ### Architecture
 The project follows a modular structure:
