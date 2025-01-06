@@ -69,10 +69,10 @@ Ensure the following are installed:
 ## Technical Details
 
 ### Libraries Used
-🖥️ Streamlit: Front-end framework for interactive UI.
-📚 Transformers: Provides pre-trained models for sentiment analysis.
-🤖 Groq API: Leveraged for LLM capabilities (Llama model).
-🔍 Regex: Input validation for email, phone numbers, and other fields.
+1. 🖥️ Streamlit: Front-end framework for interactive UI.
+2. 📚 Transformers: Provides pre-trained models for sentiment analysis.
+3. 🤖 Groq API: Leveraged for LLM capabilities (Llama model).
+4. 🔍 Regex: Input validation for email, phone numbers, and other fields.
 
 ### Models
 🧠 **LLM (Llama-3.3-70b-versatile)**: Handles conversation and technical question generation.
